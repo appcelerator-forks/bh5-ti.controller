@@ -1,0 +1,17 @@
+{
+  "name": "controller",
+  "repository": "tipm/controller",
+  "description": "MVC Controller Component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
