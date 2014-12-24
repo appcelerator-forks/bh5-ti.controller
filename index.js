@@ -5,7 +5,7 @@
 
 // module deps
 
-var Emitter = require('emitter');
+var Emitter = require('bh5-js/emitter');
 
 // expose Controller
 
