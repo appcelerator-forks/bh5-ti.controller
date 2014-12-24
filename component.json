@@ -1,11 +1,11 @@
 {
   "name": "controller",
-  "repository": "tipm/controller",
+  "repository": "bh5-ti/controller",
   "description": "MVC Controller Component",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "component/emitter": "*"
+    "bh5-js/emitter": "*"
   },
   "development": {},
   "license": "MIT",
